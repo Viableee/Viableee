@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Viable
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning c, c++, c#
 - 📫 How to reach me yasarahmet615@gmail.com
 
 <!---
